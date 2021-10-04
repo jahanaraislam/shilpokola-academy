@@ -1,0 +1,11 @@
+/* footer start */
+footer {
+  background-color: rgb(7, 34, 36);
+  opacity: 0.95;
+  color: rgb(221, 220, 214);
+  font-size: 15px;
+  font-weight: 300;
+  text-align: center;
+  overflow-x: hidden;
+}
+

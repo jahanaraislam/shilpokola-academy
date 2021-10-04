@@ -1,0 +1,23 @@
+/*qcontact form form*/
+form h2{
+	text-align:center;
+	text-transform:capitalize;
+}
+form.contact{
+	float:right;
+	
+}
+.contact{
+margin-right: 200px;
+}
+.dark{
+	background-color:#344046;
+	color:#d6ceb1;
+	margin-top:99px;
+	padding:20px 30px;
+}
+form.contact .quote input,
+form.contact .quote textarea{
+	width:95%;
+	margin-bottom:10px;
+}

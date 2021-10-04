@@ -1,0 +1,92 @@
+[
+    {
+      "courseName": "Art",
+      "phone": "01735589050",
+      "address": "MM Ali Road Chittagong,Bangladesh",
+      "image": "https://media.istockphoto.com/photos/the-painter-hands-picture-id1190200652?k=20&m=1190200652&s=612x612&w=0&h=XeXAJt5Q-ieQSM1B8l4EB2qKFPrkgI-ceP9wfFspZUc=",
+      "courseDuration": "1 Years",
+      "admissionFee": "$100",
+      "admissionFeeDetails": "(Registration $50 + Including Monthly Fee $40 + Lesson Book $20)",
+      "class": "2 class per week"
+    },
+    {
+      "courseName": "Drama",
+      "phone": "01735589050",
+      "address": "MM Ali Road Chittagong,Bangladesh",
+      "image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2017/11/22/626704-kashmiri-play-aalav.jpg",
+      "courseDuration": "1 Years",
+      "admissionFee": "$100",
+      "admissionFeeDetails": "(Registration $50 + Including Monthly Fee $40 + Lesson Book $20)",
+      "class": "2 class per week"
+    },
+    {
+      "courseName": "Recitation",
+      "phone": "01735589050",
+      "address": "MM Ali Road Chittagong,Bangladesh",
+      "image": "https://victoria.mediaplanet.com/app/uploads/sites/102/2020/02/MainImage_A5-1.jpg",
+      "courseDuration": "1 Years",
+      "admissionFee": "$100",
+      "admissionFeeDetails": "(Registration $50 + Including Monthly Fee $40 + Lesson Book $20)",
+      "class": "2 class per week"
+    },
+    {
+      "courseName": "Theater",
+      "phone": "01735589050",
+      "address": "MM Ali Road Chittagong,Bangladesh",
+      "image": "https://images.unsplash.com/photo-1585699324551-f6c309eedeca?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dGhlYXRlcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
+      "courseDuration": "1 Years",
+      "admissionFee": "$100",
+      "admissionFeeDetails": "(Registration $50 + Including Monthly Fee $40 + Lesson Book $20)",
+      "class": "2 class per week"
+    },
+    {
+      "courseName": "Guiter",
+      "phone": "01735589050",
+      "address": "MM Ali Road Chittagong,Bangladesh",
+      "image": "https://i.pinimg.com/originals/09/8f/99/098f99c9b35df800ccaf3e81393a11c2.jpg",
+      "courseDuration": "1 Years",
+      "admissionFee": "$100",
+      "admissionFeeDetails": "(Registration $50 + Including Monthly Fee $40 + Lesson Book $20)",
+      "class": "2 class per week"
+    },
+    {
+      "courseName": "Music",
+      "phone": "01735589050",
+      "address": "MM Ali Road Chittagong,Bangladesh",
+      "image": "https://previews.123rf.com/images/warrengoldswain/warrengoldswain1310/warrengoldswain131000061/22885684-dj-hands-on-equipment-deck-and-mixer-with-vinyl-record-at-party.jpg",
+      "courseDuration": "1 Years",
+      "admissionFee": "$100",
+      "admissionFeeDetails": "(Registration $50 + Including Monthly Fee $40 + Lesson Book $20)",
+      "class": "2 class per week"
+    },
+    {
+      "courseName": "Flute",
+      "phone": "01735589050",
+      "address": "MM Ali Road Chittagong,Bangladesh",
+      "image": "https://i.ytimg.com/vi/41y4gugt5cA/hqdefault.jpg",
+      "courseDuration": "1 Years",
+      "admissionFee": "$100",
+      "admissionFeeDetails": "(Registration $50 + Including Monthly Fee $40 + Lesson Book $20)",
+      "class": "2 class per week"
+    },
+    {
+      "courseName": "Dance",
+      "phone": "01735589050",
+      "address": "MM Ali Road Chittagong,Bangladesh",
+      "image": "https://lh3.googleusercontent.com/proxy/YBfeOz_YQ0m-Lur41-GgwSwN4oF1ZZ_gCjCp-uPmWR8gvU-y6_SDqpXehp0gSKZC-ZY-ORJPhMI2ehRNczv_u-bypxalOLUlcWwJ8KcB1vIDJ8kVEUBVbUY--1HNTQOPuNybVAX6h9yoLB_mAMTN",
+      "courseDuration": "1 Years",
+      "admissionFee": "$100",
+      "admissionFeeDetails": "(Registration $50 + Including Monthly Fee $40 + Lesson Book $20)",
+      "class": "2 class per week"
+    },
+    {
+      "courseName": "Tabla",
+      "phone": "01735589050",
+      "address": "MM Ali Road Chittagong,Bangladesh",
+      "image": "https://us.123rf.com/450wm/nbaturo/nbaturo1904/nbaturo190400026/126207046-ethnic-musical-instrument-tabla-in-the-interior-of-the-chill-out.jpg?ver=6",
+      "courseDuration": "1 Years",
+      "admissionFee": "$100",
+      "admissionFeeDetails": "(Registration $50 + Including Monthly Fee $40 + Lesson Book $20)",
+      "class": "2 class per week"
+    }
+  ]

@@ -1,0 +1,25 @@
+/* navbar styels */
+nav {
+  background-color: rgb(46, 113, 119);
+  opacity: 0.9;
+}
+nav h1 {
+  color: rgb(202, 182, 131);
+  font-weight: 900;
+  margin-left: 50px;
+  font-size: 40px;
+}
+nav .nav-item {
+  color: rgb(202, 182, 131);
+  font-weight: 500;
+  list-style: none;
+  margin-right: 30px;
+  font-size: 22px;
+
+  cursor: pointer;
+  padding: 5px;
+  text-decoration: none;
+}
+nav .nav-item:hover {
+  color: darkgoldenrod;
+}

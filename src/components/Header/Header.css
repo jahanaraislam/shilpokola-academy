@@ -1,0 +1,12 @@
+/* header styles */
+header {
+  background-image: url(../../images/about.jpg);
+  width: 100vw;
+  height: 670px;
+  background-position-y: center;
+  background-size: cover;
+  opacity: 0.9;
+  background-repeat: no-repeat;
+}
+
+
