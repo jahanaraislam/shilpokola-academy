@@ -41,7 +41,7 @@ const About = () => {
       <div className="row mb-5 ">
         {/* bottom part left image */}
         <div className="col-lg-6">
-          <img className="ps-5" src="https://i.pinimg.com/originals/42/98/b2/4298b29ad24e4fb71eea676358e632a5.jpg" alt="" />
+          <img className="ps-5 img-fluid mt-5 pt-4" src="https://pacificmusicinfo.com/wp-content/uploads/2020/06/Musical-instruments.jpg" alt="" />
         </div>
         {/* bottom part right accordian */}
         <div className="col-lg-6 mt-5 ">
